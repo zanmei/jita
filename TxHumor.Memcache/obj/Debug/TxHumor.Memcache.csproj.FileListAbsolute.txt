@@ -1,0 +1,13 @@
+E:\work\TxHumor\TxHumor.Memcache\bin\Debug\TxHumor.Memcache.dll
+E:\work\TxHumor\TxHumor.Memcache\bin\Debug\TxHumor.Memcache.pdb
+E:\work\TxHumor\TxHumor.Memcache\bin\Debug\Enyim.Caching.dll
+E:\work\TxHumor\TxHumor.Memcache\bin\Debug\log4net.dll
+E:\work\TxHumor\TxHumor.Memcache\obj\Debug\TxHumor.Memcache.dll
+E:\work\TxHumor\TxHumor.Memcache\obj\Debug\TxHumor.Memcache.pdb
+E:\学习内容\TxHumor20150720\TxHumor\TxHumor.Memcache\bin\Debug\TxHumor.Memcache.dll
+E:\学习内容\TxHumor20150720\TxHumor\TxHumor.Memcache\bin\Debug\TxHumor.Memcache.pdb
+E:\学习内容\TxHumor20150720\TxHumor\TxHumor.Memcache\bin\Debug\Enyim.Caching.dll
+E:\学习内容\TxHumor20150720\TxHumor\TxHumor.Memcache\bin\Debug\log4net.dll
+E:\学习内容\TxHumor20150720\TxHumor\TxHumor.Memcache\obj\Debug\TxHumor.Memcache.csprojResolveAssemblyReference.cache
+E:\学习内容\TxHumor20150720\TxHumor\TxHumor.Memcache\obj\Debug\TxHumor.Memcache.dll
+E:\学习内容\TxHumor20150720\TxHumor\TxHumor.Memcache\obj\Debug\TxHumor.Memcache.pdb

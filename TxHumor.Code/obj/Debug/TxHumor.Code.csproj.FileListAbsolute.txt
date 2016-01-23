@@ -1,0 +1,8 @@
+E:\work\TxHumor\TxHumor.Code\bin\Debug\TxHumor.Code.dll
+E:\work\TxHumor\TxHumor.Code\bin\Debug\TxHumor.Code.pdb
+E:\work\TxHumor\TxHumor.Code\obj\Debug\TxHumor.Code.dll
+E:\work\TxHumor\TxHumor.Code\obj\Debug\TxHumor.Code.pdb
+E:\学习内容\TxHumor20150720\TxHumor\TxHumor.Code\bin\Debug\TxHumor.Code.dll
+E:\学习内容\TxHumor20150720\TxHumor\TxHumor.Code\bin\Debug\TxHumor.Code.pdb
+E:\学习内容\TxHumor20150720\TxHumor\TxHumor.Code\obj\Debug\TxHumor.Code.dll
+E:\学习内容\TxHumor20150720\TxHumor\TxHumor.Code\obj\Debug\TxHumor.Code.pdb

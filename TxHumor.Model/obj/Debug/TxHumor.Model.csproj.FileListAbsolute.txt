@@ -1,0 +1,14 @@
+E:\work\TxHumor\TxHumor.Model\bin\Debug\TxHumor.Model.dll
+E:\work\TxHumor\TxHumor.Model\bin\Debug\TxHumor.Model.pdb
+E:\work\TxHumor\TxHumor.Model\bin\Debug\TxHumor.Common.Attr.dll
+E:\work\TxHumor\TxHumor.Model\bin\Debug\TxHumor.Common.Attr.pdb
+E:\work\TxHumor\TxHumor.Model\obj\Debug\TxHumor.Model.csprojResolveAssemblyReference.cache
+E:\work\TxHumor\TxHumor.Model\obj\Debug\TxHumor.Model.dll
+E:\work\TxHumor\TxHumor.Model\obj\Debug\TxHumor.Model.pdb
+E:\学习内容\TxHumor20150720\TxHumor\TxHumor.Model\bin\Debug\TxHumor.Model.dll
+E:\学习内容\TxHumor20150720\TxHumor\TxHumor.Model\bin\Debug\TxHumor.Model.pdb
+E:\学习内容\TxHumor20150720\TxHumor\TxHumor.Model\bin\Debug\TxHumor.Common.Attr.dll
+E:\学习内容\TxHumor20150720\TxHumor\TxHumor.Model\bin\Debug\TxHumor.Common.Attr.pdb
+E:\学习内容\TxHumor20150720\TxHumor\TxHumor.Model\obj\Debug\TxHumor.Model.csprojResolveAssemblyReference.cache
+E:\学习内容\TxHumor20150720\TxHumor\TxHumor.Model\obj\Debug\TxHumor.Model.dll
+E:\学习内容\TxHumor20150720\TxHumor\TxHumor.Model\obj\Debug\TxHumor.Model.pdb
